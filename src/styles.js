@@ -11,8 +11,8 @@ export const Container = styled.div`
 
 export const Content = styled.div`
   background-color: #ffffff;
-  width: 50%;
-  font-size: 30px;
+  width: 30%;
+  font-size: 40px;
   font-weight: bold;
 `;
 
